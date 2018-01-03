@@ -1,13 +1,13 @@
 {
-    "name": "deltcod/laraveltube",
+    "name": "d3ltcod/laraveltube",
     "description": "Open source project about sharing videos platform built on Laravel",
     "keywords": ["video", "mp4", "vue", "laravel", "bootstrap"],
     "license": "MIT",
     "type": "project",
     "authors": [
         {
-            "name": "Deltcod",
-            "email": "deltcod@gmail.com"
+            "name": "D3ltcod",
+            "email": "d3ltcod@protonmail.com"
         }
     ],
     "minimum-stability": "dev",

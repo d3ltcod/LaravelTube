@@ -1,19 +1,19 @@
 # LaravelTube
-[![Latest Stable Version](https://poser.pugx.org/deltcod/laraveltube/v/stable)](https://packagist.org/packages/deltcod/laraveltube)
-[![License](https://poser.pugx.org/deltcod/laraveltube/license)](https://packagist.org/packages/deltcod/laraveltube)
-[![Build Status](https://travis-ci.org/deltcod/LaravelTube.svg?branch=master)](https://travis-ci.org/deltcod/LaravelTube)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/deltcod/LaravelTube/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/deltcod/LaravelTube/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/deltcod/LaravelTube/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/deltcod/LaravelTube/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/deltcod/LaravelTube/badges/build.png?b=master)](https://scrutinizer-ci.com/g/deltcod/LaravelTube/build-status/master)
+[![Latest Stable Version](https://poser.pugx.org/d3ltcod/laraveltube/v/stable)](https://packagist.org/packages/d3ltcod/laraveltube)
+[![License](https://poser.pugx.org/d3ltcod/laraveltube/license)](https://packagist.org/packages/d3ltcod/laraveltube)
+[![Build Status](https://travis-ci.org/d3ltcod/LaravelTube.svg?branch=master)](https://travis-ci.org/d3ltcod/LaravelTube)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/badges/build.png?b=master)](https://scrutinizer-ci.com/g/d3ltcod/LaravelTube/build-status/master)
 [![StyleCI](https://styleci.io/repos/56526883/shield)](https://styleci.io/repos/56526883)
-[![Coverage Status](https://coveralls.io/repos/github/deltcod/LaravelTube/badge.svg?branch=master)](https://coveralls.io/github/deltcod/LaravelTube?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/d3ltcod/LaravelTube/badge.svg?branch=master)](https://coveralls.io/github/d3ltcod/LaravelTube?branch=master)
 
 Open source project about sharing videos platform built on Laravel
 
 # Installation & use
 
 ```bash
-git clone https://github.com/deltcod/LaravelTube.git
+git clone https://github.com/d3ltcod/LaravelTube.git
 cd LaravelTube/
 composer install
 npm install
@@ -60,12 +60,12 @@ This packages use (no need to install):
 * [Socket.io](http://socket.io/)
 
 # Docs
-http://deltcod.github.io/LaravelTube/api/master/
+http://d3ltcod.github.io/LaravelTube/api/master/
 
-http://deltcod.github.io/LaravelTube/docs/EERDiagram.mwb
+http://d3ltcod.github.io/LaravelTube/docs/EERDiagram.mwb
 
 # Packagist
-https://packagist.org/packages/deltcod/laraveltube
+https://packagist.org/packages/d3ltcod/laraveltube
 
 # Tests
 
@@ -103,13 +103,13 @@ GOOGLE_URL=http:*----*
 
 # Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags in this repository](https://github.com/deltcod/LaravelTube/tags).
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags in this repository](https://github.com/d3ltcod/LaravelTube/tags).
 
 # Author
 
-**Adam Alvarado Bertomeu** [deltcod](https://github.com/deltcod)
+**Adam Alvarado Bertomeu** [d3ltcod](https://github.com/d3ltcod)
 
-See also the list of [contributors](https://github.com/deltcod/LaravelTube/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/d3ltcod/LaravelTube/graphs/contributors) who participated in this project.
 
 # License
 This LaravelTube is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
